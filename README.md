@@ -1,1 +1,1 @@
-# This is  a scoreboard project we are going to use to show case students scores
+# This is  a scoreboard project we are going to use to show case students score
